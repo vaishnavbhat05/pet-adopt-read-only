@@ -15,14 +15,14 @@ Pet Adopt App is a user-friendly mobile application designed to connect pet love
 Pet Adopt App promotes responsible pet ownership and helps reduce shelter overcrowding by making pet adoption simple, accessible, and compassionate.
 
 <p align="center">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/blob/tree/main/screenshots/splash_screen.jpeg?raw=true" width="22%">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen.jpeg?raw=true" width="22%">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen2.jpeg?raw=true" width="22%">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen3.jpeg?raw=true" width="22%">
+  <img src="screenshots/splash_screen.jpeg?raw=true" width="22%">
+  <img src="screenshots/onboarding_screen.jpeg?raw=true" width="22%">
+  <img src="screenshots/onboarding_screen2.jpeg?raw=true" width="22%">
+  <img src="screenshots/onboarding_screen3.jpeg?raw=true" width="22%">
 </p>
 <p align="center">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/home_screen.jpeg?raw=true" width="22%">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/pet_details_screen.jpeg?raw=true" width="22%">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/favourite_screen.jpeg?raw=true" width="22%">
+  <img src="screenshots/home_screen.jpeg?raw=true" width="22%">
+  <img src="screenshots/pet_details_screen.jpeg?raw=true" width="22%">
+  <img src="screenshots/favourite_screen.jpeg?raw=true" width="22%">
   <img src="screenshots/bottom_navbar.jpeg?raw=true" width="22%">
 </p>
