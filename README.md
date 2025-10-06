@@ -15,7 +15,7 @@ Pet Adopt App is a user-friendly mobile application designed to connect pet love
 Pet Adopt App promotes responsible pet ownership and helps reduce shelter overcrowding by making pet adoption simple, accessible, and compassionate.
 
 <p align="center">
-  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/splash_screen.jpeg?raw=true" width="22%">
+  <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/blob/tree/main/screenshots/splash_screen.jpeg?raw=true" width="22%">
   <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen.jpeg?raw=true" width="22%">
   <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen2.jpeg?raw=true" width="22%">
   <img src="https://github.com/vaishnavbhat05/pet-adopt-read-only/tree/main/screenshots/onboarding_screen3.jpeg?raw=true" width="22%">
